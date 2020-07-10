@@ -1,0 +1,18 @@
+changelog
+v1.0:
+
+Created pack
+Set pack.png to ancient debris
+Added noteblock note identifier
+Edited some of the texts in the game
+Made pumpkin and melon stems different colours
+Added animated mobs
+Custom armour and elytra for vardhan and akhilesh
+Changed totem to butterfly
+Changed cake to pancake
+Vardhan is turtle-lord
+Less obtrusive fire
+All dyes look different
+Netherite now has visible gold and diamonds
+
+There are 5 easter eggs - keep your eye out for them!
